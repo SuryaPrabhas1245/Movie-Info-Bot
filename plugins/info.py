@@ -1,4 +1,4 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+# Author: Surya Prabhas (https://github.com/Suryaprabhas1245) (@SuryaPrabhas1245)
 
 import json
 import requests
@@ -11,8 +11,8 @@ API = "https://api.sumanjay.cf/watch/query="
 
 JOIN_BUTTONS = [
     InlineKeyboardButton(
-        text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        text='⚙ Join Our Main Group ⚙',
+        url='https://telegram.me/TeluguDubbedHorrorMovies2'
     )
 ]
 
