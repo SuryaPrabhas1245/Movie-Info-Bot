@@ -1,4 +1,4 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+# Author: Surya Prabhas (https://github.com/SuryaPrabhas1245) (@suryaprabhas1245)
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
@@ -9,12 +9,12 @@ I am a movie information finder bot.
 
 > `I can find information of all movies.`
 
-Made by @FayasNoushad"""
+Made by @SuryaPrabhas1245"""
 
 JOIN_BUTTONS = [
     InlineKeyboardButton(
-        text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        text='⚙ Join Our Main Channel ⚙',
+        url='https://telegram.me/TeluguDubbedHorrorMovies2'
     )
 ]
 
