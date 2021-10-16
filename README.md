@@ -6,9 +6,9 @@ A movie information finder telegram bot
 
 ```
 Made with Python3
-(C) @FayasNoushad
+(C) @Suryaprabhas1245
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Movie-Info-Bot/blob/main/LICENSE
+License -> https://github.com/SuryaPrabhas1245/Movie-Info-Bot/blob/main/LICENSE
 ```
 
 ---
@@ -59,6 +59,6 @@ python3 main.py
 
 ## Credits
 
-- [Fayas Noushad](https://github.com/FayasNoushad)
+- [Surya Prabhas](https://github.com/SuryaPrabhas1245)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Movie Info API](https://api.sumanjay.cf/watch/)
