@@ -1,4 +1,4 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+# Author: Surya Prabhas (https://github.com/SuryaPrabhas1245) (@suryaprabhas1245)
 
 import os
 from pyrogram import Client
